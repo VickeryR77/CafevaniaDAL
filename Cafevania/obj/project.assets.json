@@ -6644,11 +6644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RVICKERY\\source\\repos\\Cafevania\\Cafevania\\Cafevania.csproj",
+      "projectUniqueName": "C:\\Users\\RVICKERY\\source\\Cafevania\\Cafevania\\Cafevania.csproj",
       "projectName": "Cafevania",
-      "projectPath": "C:\\Users\\RVICKERY\\source\\repos\\Cafevania\\Cafevania\\Cafevania.csproj",
+      "projectPath": "C:\\Users\\RVICKERY\\source\\Cafevania\\Cafevania\\Cafevania.csproj",
       "packagesPath": "C:\\Users\\RVICKERY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RVICKERY\\source\\repos\\Cafevania\\Cafevania\\obj\\",
+      "outputPath": "C:\\Users\\RVICKERY\\source\\Cafevania\\Cafevania\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RVICKERY\\AppData\\Roaming\\NuGet\\NuGet.Config",

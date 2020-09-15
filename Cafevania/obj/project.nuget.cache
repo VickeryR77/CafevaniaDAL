@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fb55fLRZ70JBE6hSMyWUVIqHBtseYYAC+HjB+hwqmQs0OsgDhJoCWaRcwVUjjkSp7SPlGk+prYdGP+tCtIHbAg==",
+  "dgSpecHash": "ZfZWaozXirUJOsoS/MpReqT7QJxukSdFBoK6AyeTCSd91Qlh3nG8cxYeekatvDMCgfIbFj6uasQpzOLRTQeDQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RVICKERY\\source\\repos\\Cafevania\\Cafevania\\Cafevania.csproj",
+  "projectFilePath": "C:\\Users\\RVICKERY\\source\\Cafevania\\Cafevania\\Cafevania.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RVICKERY\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\RVICKERY\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
