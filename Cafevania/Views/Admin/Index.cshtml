@@ -1,0 +1,17 @@
+﻿@model List<Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Admin/Index:</h1><br />
+
+<a style="color:darkblue" href="/Admin/Edit">ADD NEW PRODUCT</a>
+
+<h1>Here's the inventory:</h1><br />
+@foreach (Product cat in Model)
+{
+    @cat.Name <br />
+    <a style="color:darkblue" href="/Admin/Update?catid=@cat.ID">Edit</a> <a style="color:darkblue" href="/Admin/Delete?catid=@cat.ID">Delete</a> <br />
+    <br />
+}

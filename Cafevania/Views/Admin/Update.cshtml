@@ -1,0 +1,30 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Add Item:</h1>
+
+<form action="/Admin/Update" method="POST">
+    <label for="Name">Product Name:</label><br />
+    <input type="text" id="Name" name="Name" /><br /><br />
+
+    <label for="Price">Price:</label><br />
+    <input type="text" id="Price" name="Price" /><br /><br />
+
+    <label for="Category">Category:</label><br />
+    <select name="Category" value ="Category">
+        <option value="Produce">Produce</option>
+        <option value="Food">Food</option>
+        <option value="Spirits">Spirits</option>
+        <option value="Coffee">Coffee</option>
+        <option value="Weaponry">Weaponry</option>
+    </select> <br /><br />
+
+    <label for="Description">Description:</label><br />
+    <input type="text" id="Description" name="Description"  /><br /><br />
+    
+    <input name="catid" value="@ViewBag.ID" type="hidden" />
+    <input id="submit" class="btn btn-dark" type="submit" value="FINALIZE ITEM" />
+</form>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafevania", "Cafevania\Cafevania.csproj", "{9698FA8E-D043-4049-ACB5-CD0A976BF694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9698FA8E-D043-4049-ACB5-CD0A976BF694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9698FA8E-D043-4049-ACB5-CD0A976BF694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9698FA8E-D043-4049-ACB5-CD0A976BF694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9698FA8E-D043-4049-ACB5-CD0A976BF694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2582951F-0CD6-4CDE-B22F-BA5A68D4FD53}
+	EndGlobalSection
+EndGlobal

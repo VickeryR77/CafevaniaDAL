@@ -1,0 +1,13 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+Are you sure you want to delete this?<br/>                                    
+<form action="Delete" method="POST">
+<input name="catid" value="@ViewBag.ID" type="hidden" />
+<input id="submit" class="btn btn-dark" type="submit" value="Destroy!!!" /><br/>
+</form>
+<a href="Index"><div class="btn btn-dark">No, take me back!</div></a>
+
